@@ -1,5 +1,5 @@
 # Professional-Statement
-I have always been passionate about computers and technology, and I believe my skills and security mindset make me a strong fit for a career in cybersecurity. Naturally detail-oriented and cautious, I approach problems with a security-first perspective, always thinking ahead to mitigate potential risks.
+I have always been passionate about computers and technology, and I believe my skills and security mindset, combined with five years of experience in IT make me a strong fit for a career in cybersecurity. Naturally detail-oriented and cautious, I approach problems with a security-first perspective, always thinking ahead to mitigate potential risks.
 
 Currently, I am exploring different areas within cybersecurity, with a particular interest in SOC operations and Blue Team security. I want to develop my expertise in threat detection, incident response, and system defense to contribute to a secure digital environment. While I am still refining my focus, I am eager to gain hands-on experience and grow into a role where I can actively defend against cyber threats.
 
