@@ -1,7 +1,11 @@
 # Professional-Statement
-I am an IT professional with 5 years worth of experience in securing and managing technology systems. Having spent many years in this field I have discovered a new found passion for the safeguarding of the digital space. Through both my work, my own project and technical background I honed a lot of technical skills that allow me to troubleshoot and secure sensitive data. 
+I have always been passionate about computers and technology, and I believe my skills and security mindset make me a strong fit for a career in cybersecurity. Naturally detail-oriented and cautious, I approach problems with a security-first perspective, always thinking ahead to mitigate potential risks.
 
-To advance my knowledge in cybersecurity, I have earned the ISC2 Certified in Cybersecurity (CC) certificate which has taught me the foundation and fundamentals of security. Furthermore I continue to learn as I complete the Google Cybersecurity Professional Certificate. Through this Certification I have learned how to Identify threats and use SIEM tools to protect networks and data and have acquired hands-on experience with Python, Linux and SQL.
+Currently, I am exploring different areas within cybersecurity, with a particular interest in SOC operations and Blue Team security. I want to develop my expertise in threat detection, incident response, and system defense to contribute to a secure digital environment. While I am still refining my focus, I am eager to gain hands-on experience and grow into a role where I can actively defend against cyber threats.
 
-I value a sense of responsibility and duty as these are what motivate me to be the best I can be within the field I choose to specialize in. It gives me a sense of purpose and fulfillment to be trusted with important tasks. I am committed to further development and seeking opportunities to apply my IT expertise. My goal is to use my skills to better protect organisations from threats and to specialise in this sector. 
+I have gained confidence working with SIEM tools, though I continuously strive to improve my proficiency. One of the challenges I faced early in my journey was understanding TCP commands in the command line, but through persistent research and practice, I overcame this hurdle. Learning from such experiences has strengthened my ability to adapt, troubleshoot, and solve technical problems.
+
+One of my proudest achievements so far is earning the Google Cybersecurity Certification, marking a significant milestone in my professional growth. I am committed to further developing my skills, obtaining more certifications, and gaining real-world experience to excel in cybersecurity.
+
+As I continue on this journey, I am eager to learn, collaborate, and contribute to a strong security culture. I welcome opportunities to connect with like-minded professionals and build a future in cybersecurity. 
 
