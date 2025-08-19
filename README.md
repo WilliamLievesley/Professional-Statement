@@ -5,7 +5,7 @@ Currently, I am exploring different areas within cybersecurity, with a particula
 
 I have gained confidence working with SIEM tools, though I continuously strive to improve my proficiency. One of the challenges I faced early in my journey was understanding TCP commands in the command line, but through persistent research and practice, I overcame this hurdle. Learning from such experiences has strengthened my ability to adapt, troubleshoot, and solve technical problems.
 
-One of my proudest achievements so far is earning the Google Cybersecurity Certification, marking a significant milestone in my professional growth. I am committed to further developing my skills, obtaining more certifications, and gaining real-world experience to excel in cybersecurity.
+One of my proudest achievements so far is earning the Security+, marking a significant milestone in my professional growth. I am committed to further developing my skills, obtaining more certifications, and gaining real-world experience to excel in cybersecurity.
 
 As I continue on this journey, I am eager to learn, collaborate, and contribute to a strong security culture. I welcome opportunities to connect with like-minded professionals and build a future in cybersecurity. 
 
